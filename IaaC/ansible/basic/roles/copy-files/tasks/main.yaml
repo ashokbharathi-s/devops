@@ -1,0 +1,2 @@
+- name: Copy files
+  template: src=test.txt dest=/etc/nginx/conf.d/test.txt

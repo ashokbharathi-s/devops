@@ -1,0 +1,1 @@
+hi this is ashok from this dir {{ ansible_env.PWD }} test
